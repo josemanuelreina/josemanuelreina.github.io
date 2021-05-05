@@ -1,7 +1,7 @@
 ---
-title: About
+title: Education
 icon: fas fa-info
-order: 1
+order: 3
 ---
 
 
